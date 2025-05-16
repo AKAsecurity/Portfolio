@@ -17,4 +17,4 @@
 
 ## 資格等
 - 基本情報技術者
-  
+- Microsoft Office Specialist Excel 2016
