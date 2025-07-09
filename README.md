@@ -2,16 +2,16 @@
 ポートフォリオ（自己紹介・制作実績）
 
 ## 自己紹介
-情報系専門学生2年   
+情報系専門学生2年(3年制)   
 
 ## 目指している職種
-- システムエンジニア(SIer)
 - セキュリティエンジニア
 
 ## やっていること
-- cpawCTFでWriteup作成予定
+- SECCON Beginners CTFに向けてcpawCTFで基本的な知識と攻略法を学習中
 - Unityでブロックワールドゲーム(仮)制作中（U-22コンテスト応募予定）
 - 応用情報技術者試験の勉強中
+- Atcoderを使用してPythonの学習中(https://atcoder.jp/users/AKA2)
 
 ## 資格等
 - Microsoft Office Specialist Excel 2016 (2023-8-30合格)
