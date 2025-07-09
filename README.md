@@ -15,5 +15,6 @@
 
 ## 資格等
 - Microsoft Office Specialist Excel 2016 (2023-8-30合格)
+- Microsoft Office Specialist Word 2016 (2023-12-07合格)
 - 基本情報技術者 (2024-10-8合格)
 - 情報セキュリティマネジメント (2025-6-21合格)
