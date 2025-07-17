@@ -10,10 +10,9 @@
 ## やっていること
 - SECCON Beginners CTFに向けてcpawCTFで基本的な知識と攻略法を学習中
 - Unityでブロックワールドゲーム(仮)制作中（U-22コンテスト応募予定）
-  
+  https://play.unity.com/en/games/52f9d43f-de7c-4138-980f-3f48888501da/u22
 - 応用情報技術者試験の勉強中
 - Atcoderを使用してPythonの学習中(https://atcoder.jp/users/AKA2)
-  https://play.unity.com/en/games/52f9d43f-de7c-4138-980f-3f48888501da/u22
   
 ## 資格等
 - Microsoft Office Specialist Excel 2016
