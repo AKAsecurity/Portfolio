@@ -6,11 +6,10 @@
 
 ## 取り組み中
 
-- 応用情報技術者試験の勉強中
 - 仮想マシンを使用してログ解析を演習中 <br>
   https://qiita.com/AKASecurity
 - Cisco Packet Tracerを使ってクラウド運用監視を意識したネットワークを構築中(11月末までに完成予定)
-
+- TryHackMeでSOCLevel1を進行中
   
 ## 以前の取り組み
 
