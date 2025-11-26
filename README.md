@@ -7,7 +7,7 @@
 - 仮想マシンを使用してログ解析を演習中 <br>
   https://qiita.com/AKASecurity
 - Cisco Packet Tracerを使ってクラウド運用監視を意識したネットワークを構築中(11月末までに完成予定)
-- TryHackMeでSOCLevel1を進行中(https://tryhackme.com/p/AKA2005)
+- TryHackMeでSOCLevel1を進行中(<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6141473" style='border:none;'></iframe>)
   
 ## 以前の取り組み
 
