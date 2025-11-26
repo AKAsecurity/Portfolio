@@ -9,7 +9,8 @@
 - Cisco Packet Tracerを使ってクラウド運用監視を意識したネットワークを構築中(11月末までに完成予定)
 - TryHackMeでSOCLevel1を進行中
 
- ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AKA2005.png)
+ [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/AKA2005.png)](https://tryhackme.com/p/AKA2005)
+
   
 ## 以前の取り組み
 
