@@ -4,7 +4,7 @@
 
 ## 取り組み中
 
-- 仮想マシンを使用してログ解析を演習中 <br>
+- フィッシングサイト撲滅チャレンジカップに参加 <br>
   https://qiita.com/AKASecurity
 
 - TryHackMeでSOCLevel1を進行中
