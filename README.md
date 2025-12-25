@@ -6,7 +6,7 @@
 
 - 仮想マシンを使用してログ解析を演習中 <br>
   https://qiita.com/AKASecurity
-- Cisco Packet Tracerを使ってクラウド運用監視を意識したネットワークを構築中(11月末までに完成予定)
+
 - TryHackMeでSOCLevel1を進行中
 
 
@@ -19,6 +19,7 @@
   https://play.unity.com/en/games/52f9d43f-de7c-4138-980f-3f48888501da/u22
 - 新潟デジコングランプリ応募作品 KillerBear<br>
   https://play.unity.com/en/games/fea2066e-62ca-4c59-b639-59b625e197d0/killerbear
+- Cisco Packet Tracer内にクラウド運用監視を意識したネットワークを構築
   
 ## 資格等
 - Microsoft Office Specialist Excel 2016
