@@ -5,7 +5,7 @@
 ## 取り組み中
 
 - フィッシングサイト撲滅チャレンジカップに参加 <br>
-  https://qiita.com/AKASecurity
+  https://qiita.com/AKASecurity/items/8ad52804cd3c326228b5
 
 - TryHackMeでSOCLevel1を進行中
 
